@@ -1,0 +1,9 @@
+{
+  "dependencies": {
+    "crypto-js": "^4.2.0",
+    "enquirer": "^2.4.1",
+    "ethers": "^6.11.1",
+    "inquirer": "^10.0.0",
+    "js-base64": "^3.7.7"
+  }
+}
