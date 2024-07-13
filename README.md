@@ -3,3 +3,11 @@
 ## 加密解密
 create.js为加密钱包脚本
 unravel.js为钱包解密
+
+## 运行
+
+`pnpm install ` 下载相关依赖
+
+`node create.js` 创建加密钱包
+
+`node unravel.js` 解密加密钱包
